@@ -1,7 +1,7 @@
-int mtr_1 = 9;
-int mtr_2 = 10;
-int mtr_3 = 11;
-int mtr_4 = 12;
+int mtr_1 = 8;
+int mtr_2 = 9;
+int mtr_3 = 10;
+int mtr_4 = 11;
 
 int en_1 = 5;
 int en_2 = 6;
